@@ -1,5 +1,3 @@
----
-
 ### 🇬🇧 ENG:
 
 # 🧟 Project Zombies in Your Room
