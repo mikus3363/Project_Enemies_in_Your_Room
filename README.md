@@ -1,8 +1,8 @@
-# 🧟 Project Enemies in Your Room
+# 🧟 Project Zombies in Your Room
 
-> **Gra XR stworzona w Unity na platformę Meta Quest 2**
+> **Gra XR stworzona w Unity na platformę Meta Quest 2/3**
 
-„Project Enemies in Your Room” to dynamiczna gra akcji w rozszerzonej rzeczywistości (XR), w której przeciwnicy – zombie – pojawiają się w Twoim własnym pokoju. Gra wykorzystuje passthrough i system MR Utility Kit do generowania przeciwników bezpośrednio w otoczeniu gracza.
+„Project Zombies in Your Room” to dynamiczna gra akcji w rozszerzonej rzeczywistości (XR), w której przeciwnicy – zombie – pojawiają się w Twoim własnym pokoju. Gra wykorzystuje passthrough i system MR Utility Kit do generowania przeciwników bezpośrednio w otoczeniu gracza.
 
 ---
 
