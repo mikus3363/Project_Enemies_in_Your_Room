@@ -1,3 +1,93 @@
+---
+
+### 🇬🇧 ENG:
+
+# 🧟 Project Zombies in Your Room
+
+> **An XR game developed in Unity for Meta Quest 2/3**
+
+**"Project Zombies in Your Room"** is a fast-paced augmented reality (XR) action game where enemies — zombies — appear right inside your physical room. Using passthrough and the MR Utility Kit, the game generates enemies directly in the player's real-world environment.
+
+---
+
+## 🎮 Gameplay
+
+- 🔫 Shoot zombies using two virtual pistols (left and right hand).
+- 💀 Headshot = instant kill.
+- 🩸 Body hit = two shots required.
+- 🧠 Zombies are dynamically spawned based on the player's surroundings.
+- 🎯 Each zombie grants +150 points. The game ends when you reach 2400 points.
+- 🧾 A HUD interface displays score and controls game start/restart.
+
+---
+
+## 📽️ Gameplay Demo
+
+▶️ [Watch the gameplay demo](https://drive.google.com/file/d/1O08tDdAkF74BuaQVlj9YG2NG-B723rcf/view?usp=sharing)
+
+---
+
+## ⚙️ Technologies Used
+
+- Unity (XR Interaction Toolkit)
+- Meta Quest 2 / 3
+- MR Utility Kit
+- NavMesh AI
+- XR UI / HUD system
+- C#
+
+---
+
+## 🔧 Game Systems
+
+### 🔸 Weapon System
+- Laser aiming line
+- Reloading mechanic with a visual slider
+- Shooting sound effects, muzzle flash, and controller haptics
+- Ammo management with live UI updates
+
+### 🧟‍♂️ Enemy (Zombie) System
+- Zombies track the player and approach them
+- Supports both headshot and body hit detection
+- Damage logic, animations, and delayed death effects
+- Points awarded and zombies removed on death
+
+### 🧬 Zombie Spawner
+- Dynamically spawns zombies on vertical surfaces in the real environment
+- Uses MR Utility Kit to find wall-like surfaces
+- Enforces a limit on active zombie instances
+
+### 🖥️ HUD / UI System
+- Start the game by touching an interactive object
+- Real-time score and gameplay status display
+- End screen with restart functionality
+- HUD dynamically positioned in front of the player
+
+---
+
+## 👨‍💻 Authors
+
+- **Konrad Kuleta** (272293)  
+- **Mikołaj Lipiński** (273024)
+
+Created as part of the course:  
+**“Game Design and Programming”**  
+Supervisor: _Dr. Eng. Arch. Tomasz Zamojski_
+
+---
+
+## 📌 Potential Improvements (TODO)
+
+- [ ] Optimize performance with many zombies on screen
+- [ ] Add dynamic difficulty scaling system
+- [ ] Improve animations and visual hit feedback
+- [ ] Introduce an endless survival mode
+- [ ] Better handling of small physical spaces
+
+---
+
+### 🇵🇱 PL:
+
 # 🧟 Project Zombies in Your Room
 
 > **Gra XR stworzona w Unity na platformę Meta Quest 2/3**
