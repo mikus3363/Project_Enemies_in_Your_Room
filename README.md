@@ -4,7 +4,7 @@
 
 # 🧟 Project Zombies in Your Room
 
-> **An XR game developed in Unity for Meta Quest 2/3**
+**An XR game developed in Unity for Meta Quest 2/3**
 
 **"Project Zombies in Your Room"** is a fast-paced augmented reality (XR) action game where enemies — zombies — appear right inside your physical room. Using passthrough and the MR Utility Kit, the game generates enemies directly in the player's real-world environment.
 
